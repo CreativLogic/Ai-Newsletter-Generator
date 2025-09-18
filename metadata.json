@@ -1,0 +1,5 @@
+{
+  "name": "AI Newsletter Generator",
+  "description": "An AI-powered tool to research topics, generate, and edit professional newsletters. Features customizable styles, tones, and a persistent notes section for seamless content creation.",
+  "requestFramePermissions": []
+}
